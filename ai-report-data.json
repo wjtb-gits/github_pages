@@ -18,8 +18,8 @@
   {
     "id": "1779079814196",
     "url": "https://techblog.lycorp.co.jp/ko/ai-augments-qa-rather-than-replacing-it",
-    "title": "분석 실패",
-    "summary": "페이지를 가져올 수 없습니다.",
+    "title": "AI로 QA 운영 체계를 재설계한 LINE Album의 실전 사례",
+    "summary": "• 생성형 AI 도입 초기엔 문서 요약·테스트 케이스 초안 생성 등 보조 도구로 활용했으나, 운영 전체 효율 개선에는 한계 존재\n• QA의 핵심 과제는 테스트 속도가 아닌 분산된 정보(기획 문서, Slack, Jira, 사용자 리뷰 등)의 빠른 구조화 및 리스크 판단\n• AI를 '대화형 호출 도구'에서 벗어나, 품질 이벤트(Jira 생성, PR, 테스트 실행 등)에 자동 반응하는 워크플로 시스템으로 재설계\n• 현재 30개 이상의 자동화 워크플로 운영 중이며, 스케줄 기반 분석과",
     "date": "2026-05-18",
     "loading": false
   },
