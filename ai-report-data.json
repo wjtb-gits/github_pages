@@ -34,10 +34,10 @@
   {
     "id": "1779079086060",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/2_SRE_260420.HTML",
-    "title": "VOC 이슈 세분화 및 LLM 분류 적용으로 실제 IT 이슈 비중 명확화",
-    "summary": "",
+    "title": "VOC 이슈 LLM 기반 세분화 및 Jira 자동화로 실제 IT 이슈 53% 규명",
+    "summary": "• 기존 '기타' 중심의 포괄적 VOC 분류를 13개 유형으로 세분화, IT vs NON-IT 이슈 구분 체계 구축\n• LLM 분류 적용 후 '기타' 1,239건→418건(-66%), 전체 3,915건 중 55.6%(2,176건) 재분류 성공\n• NON-IT 성격 이슈 765건(19.5%) 신규 식별—로그인(381건)·계정정보(274건)·초기화·보강·결제 포함\n• 라운지 서비스는 전체 606건 중 65.5%가 NON-IT(로그인·계정정보), 단순 CS 비중 데이터로 입증\n• Jira VOC에 Cascading Select 이슈 원인 필",
     "date": "2026-04-21T09:12:26.000Z",
-    "loading": true
+    "loading": false
   },
   {
     "id": "1779079026424",
