@@ -1,9 +1,44 @@
 [
   {
     "action": "등록",
-    "title": "Prometheus SLI/SLO 대시보드 실전 PromQL 쿼리 및 Grafana 운영 가이드",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/PROMETHEUS_SLI_DASHBOARD.HTML",
-    "date": "2026-05-19T02:25:35.924Z",
+    "title": "AWS RI 290개 월별 종료 일정 및 긴급 갱신 대상 현황 (기준: 2026년 1월)",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/RI_종료일_월별_표.HTML",
+    "date": "2026-05-18T09:28:13.087Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
+    "title": "GitHub Enterprise Cloud 이관 현황 및 SonarQube 코드 보안 분석 보고 (2026-04)",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/GITHUB_SONARQUBE_보고서_20260408.HTML",
+    "date": "2026-05-18T07:39:13.034Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
+    "title": "웅진씽크빅 SVN→GitHub Enterprise 전환 및 SonarQube 보안 검토 체계 구축",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SONARQUBE_EXECUTIVE_REPORT_20260224_184724.HTML",
+    "date": "2026-05-18T07:22:55.124Z",
+    "admin": true
+  },
+  {
+    "action": "삭제",
+    "title": "웅진씽크빅 GitHub Enterprise 전환 및 SonarQube 보안 검토 체계 구축 현황",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SONARQUBE_EXECUTIVE_REPORT_20260224_184724.HTML",
+    "date": "2026-05-18T07:22:41.620Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
+    "title": "웅진씽크빅 GitHub Enterprise 전환 및 SonarQube 보안 검토 체계 구축 현황",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SONARQUBE_EXECUTIVE_REPORT_20260224_184724.HTML",
+    "date": "2026-05-18T05:59:46.025Z",
+    "admin": false
+  },
+  {
+    "action": "삭제",
+    "title": "분석 실패",
+    "url": "https://aaaa",
+    "date": "2026-05-18T05:43:55.477Z",
     "admin": true
   }
 ]
