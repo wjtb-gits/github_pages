@@ -1,5 +1,13 @@
 [
   {
+    "id": "1779165841631",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/0_IT_VOC_260514.HTML",
+    "title": "2026년 상반기 IT VOC 3% 수준, 하반기 20% 감소 목표 추진",
+    "summary": "• 전체 VOC 241,003건 중 IT VOC는 7,256건(3.01%)이며, 앱·콘텐츠 관련 이슈가 절반 이상 차지\n• IT VOC 주요 유형은 학습콘텐츠오류(17.6%), 앱중지/로딩오류(17.1%), 콘텐츠안열림(15.3%), 설치오류(8.7%) 순\n• 4가지 개선 방안 추진 중: 앱 설치 QR 안내, 패드 사전 점검 기능, 씽키 챗봇 시나리오 확대, 마일리지 알림톡 챗봇 URL 추가\n• 하반기 목표: 월평균 IT VOC를 1,814건 → 1,450건으로 약 20% 감소 (",
+    "date": "2026-05-14T07:18:41.000Z",
+    "loading": false
+  },
+  {
     "id": "1779157529314",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/PROMETHEUS_SLI_DASHBOARD.HTML",
     "title": "Prometheus SLI/SLO 대시보드 실전 PromQL 쿼리 및 Grafana 운영 가이드",
