@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "Telegraf + Scouter APM 연동으로 인프라 메트릭 통합 모니터링 구축",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/TELEGRAF_SCOUTER_INTEGRATION.HTML",
+    "date": "2026-05-19T09:18:35.071Z",
+    "admin": false
+  },
+  {
+    "action": "등록",
     "title": "웅진씽크빅 GitHub Enterprise 전환 및 SonarQube 보안 검토 체계 구축 현황",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SONARQUBE_EXECUTIVE_REPORT_20260226_103816.HTML",
     "date": "2026-05-19T05:32:57.180Z",
