@@ -1,5 +1,12 @@
 [
   {
+    "action": "삭제",
+    "title": "Telegraf + Scouter APM 연동으로 인프라 메트릭 통합 모니터링 구축",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/TELEGRAF_SCOUTER_INTEGRATION.HTML",
+    "date": "2026-05-19T09:47:22.166Z",
+    "admin": true
+  },
+  {
     "action": "등록",
     "title": "Telegraf + Scouter APM 연동으로 인프라 메트릭 통합 모니터링 구축",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/TELEGRAF_SCOUTER_INTEGRATION.HTML",
