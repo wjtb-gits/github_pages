@@ -1,13 +1,5 @@
 [
   {
-    "id": "1779182307728",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/TELEGRAF_SCOUTER_INTEGRATION.HTML",
-    "title": "Telegraf + Scouter APM 연동으로 인프라 메트릭 통합 모니터링 구축",
-    "summary": "• Telegraf(InfluxData)를 Scouter Collector HTTP 서버(기본 포트 6180)와 연동해 Redis, MySQL, Nginx 등 200+ 인프라 메트릭 수집\n• Scouter Collector 설정 파일에 `net_http_server_enabled=true` 추가 후 반드시 재시작 필요\n• Telegraf 수집 주기는 2~10초 권장(예: `interval = \"4s\"`), 데이터는 InfluxDB Line Protocol 형식으로 POST 전송\n• Linux(apt/yum), Kubernetes(Helm DaemonSet), Docker 등 환경별 설치 방법 제공\n• Telegraf 메트릭을 Scouter Counter로 매핑하여 Java APM + 인프라 메트릭 단일 대시보드 통합 관리 가능",
-    "date": "2026-02-12T07:46:35.000Z",
-    "loading": false
-  },
-  {
     "id": "1779168771108",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SONARQUBE_EXECUTIVE_REPORT_20260226_103816.HTML",
     "title": "웅진씽크빅 GitHub Enterprise 전환 및 SonarQube 보안 검토 체계 구축 현황",
