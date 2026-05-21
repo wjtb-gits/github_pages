@@ -1,5 +1,12 @@
 [
   {
+    "action": "등록",
+    "title": "학습 콘텐츠 오류 VOC 1,301건 집중 분석 및 감소 방안",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/6_VOC_260521.html",
+    "date": "2026-05-21T02:01:20.549Z",
+    "admin": true
+  },
+  {
     "action": "삭제",
     "title": "Telegraf + Scouter APM 연동으로 인프라 메트릭 통합 모니터링 구축",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/TELEGRAF_SCOUTER_INTEGRATION.HTML",
