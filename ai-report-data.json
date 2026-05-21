@@ -1,5 +1,13 @@
 [
   {
+    "id": "1779355324152",
+    "url": "https://techblog.lycorp.co.jp/ko/reduce-repetitive-tasks-with-sre-bot",
+    "title": "SRE 봇으로 반복 작업 10분의 1 감축 — Slack 기반 자동화 개발기",
+    "summary": "• **문제 규모**: SRE 팀원 1인당 매주 약 반나절(배포 요청 10건×1시간 + 일반 요청 40건×20분 = 주간 ~24시간)을 단순 반복 작업에 소비\n• **핵심 원인**: 배포 요청 1건 처리 시 Slack→Confluence→Jira를 수동으로 오가며 평균 1시간 소요, 실수 및 추적 불가 문제 반복\n• **설계 철학**: \"개발자는 Slack만, SRE는 버튼만\"을 목표로 Single Point of Truth·Zero Manual Work·Instant Visibility·Permission Control 4원칙 적용\n• **기술 결정**: 슬래시 명령어 대신 Slack 워크플로(입력 검증·UI 불필요),",
+    "date": "2026-05-21",
+    "loading": false
+  },
+  {
     "id": "1779355248248",
     "url": "https://medium.com/myrealtrip-product/%EC%9B%94-7%EB%A7%8C-5%EC%B2%9C-%EA%B1%B4-cs-%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD%EC%9D%B4-%ED%92%80%EC%96%B4%EB%82%B8-%EC%9A%B4%EC%98%81-%EC%9E%90%EB%8F%99%ED%99%94-aicx%EC%9D%98-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-9c338156436c",
     "title": "** 마이리얼트립, AI·자동화로 월 7만 5천 건 CS 처리하는 방법",
