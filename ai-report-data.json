@@ -1,5 +1,13 @@
 [
   {
+    "id": "1779343776676",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/6_VOC_1_260521.html",
+    "title": "학습컨텐츠 오류 VOC 1,301건 분석 — 서버 이슈·완료 미처리·UX 개선이 핵심",
+    "summary": "• 학습컨텐츠 오류 VOC는 월 평균 260건(전체의 17.2%)이며, 서버 이슈가 38.4%(280건)로 전 기간 최다 원인\n• 원격이관 비율 86.9%로 고객 셀프 해결 거의 불가 — 셀프 점검 가이드 제공 시 감소 여지 있음\n• '이슈 아님' 24.1%(176건)는 정상 동작임에도 고객이 기능을 못 찾는 것 → UX·안내 개선으로 VOC 자체 차단 가능\n• 개인 패드 최다 증상은 학습 완료 미처리(85건) — 학습을 끝까지 했으나 완료 처리",
+    "date": "2026-05-21T04:45:58.000Z",
+    "loading": false
+  },
+  {
     "id": "1779168771108",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SONARQUBE_EXECUTIVE_REPORT_20260226_103816.HTML",
     "title": "웅진씽크빅 GitHub Enterprise 전환 및 SonarQube 보안 검토 체계 구축 현황",
