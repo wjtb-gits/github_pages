@@ -1,5 +1,13 @@
 [
   {
+    "id": "1779328871255",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/6_VOC_260521.html",
+    "title": "학습 콘텐츠 오류 VOC 1,301건 집중 분석 및 감소 방안",
+    "summary": "• 학습 콘텐츠 오류 VOC는 전체의 17.2%(1,301건, 월평균 260건)로 이슈 유형 2위, 최다 서비스는 스마트올초등(554건, 42.6%)\n• 전체 JIRA VOC의 24.1%(176건)는 실제 오류가 아닌 \"이슈 아님\"으로, UX·안내 개선만으로도 VOC 자체 감소 가능\n• 주요 반복 증상은 학습 완료 미처리(85건), 녹음/마이크 인식 실패(39건), 다음 단계 미전환(16건) 순\n• 상황 부적합 팝업 개선 및 계약·멤버십 안내 강화로 월 14~20건 VOC 감소 예상(예상",
+    "date": "2026-05-21T01:57:36.000Z",
+    "loading": false
+  },
+  {
     "id": "1779168771108",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SONARQUBE_EXECUTIVE_REPORT_20260226_103816.HTML",
     "title": "웅진씽크빅 GitHub Enterprise 전환 및 SonarQube 보안 검토 체계 구축 현황",
