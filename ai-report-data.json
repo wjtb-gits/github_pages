@@ -58,8 +58,8 @@
   {
     "id": "1779157529314",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/PROMETHEUS_SLI_DASHBOARD.HTML",
-    "title": "Prometheus SLI/SLO 대시보드 실전 PromQL 쿼리 & Grafana 구성 가이드",
-    "summary": "• **4가지 SLI 지표** 측정 - 가용성(≥99.9%), 지연시간(p95 <500ms), 에러율(<0.1%), 처리량(TPS) PromQL 쿼리 제공\n• **Error Budget 계산** - Tier1(99.9% SLO) 월 43.2분, Tier2(99.5% SLO) 월 3.6시간 허용치 기반 소진율 쿼리 포함\n• **3개 서비스 맞춤 쿼리** - superpot-api, superpot-gateway, bookclub-bodp-api 별 가용성/지연/에러율/TPS 개별 제공\n• **메트릭 소스 다양화** - HTTP, Istio 서비스메시, JVM, Spring Boot(Tomcat/HikariCP) 등 멀티 계층",
+    "title": "Prometheus 기반 SLI/SLO 모니터링 실전 PromQL 쿼리 & Grafana 대시보드 가이드",
+    "summary": "• **4대 SLI 지표** 정의 — 가용성(≥99.9%), 지연시간(p95 < 500ms), 에러율(< 0.1%), 처리량(TPS) 각각의 PromQL 쿼리 제공\n• **Error Budget 계산** — Tier1(99.9% SLO) 월 43.2분, Tier2(99.5% SLO) 월 3.6시간 허용치 기준으로 소진율·잔여량 쿼리 구현\n• **3개 서비스 맞춤 쿼리** — superpot-api, superpot-gateway, bookclub-bodp-api별 가용성·p95지연·에러율·TPS 쿼리 개별 제공\n• **다중 메트릭 소스 지원** — HTTP 서버, Istio",
     "date": "2026-02-12T07:46:32.000Z",
     "loading": false
   },
