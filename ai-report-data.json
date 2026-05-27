@@ -67,9 +67,9 @@
     "id": "1779079814196",
     "url": "https://techblog.lycorp.co.jp/ko/ai-augments-qa-rather-than-replacing-it",
     "title": "AI로 QA 운영 체계 재설계 – 대체가 아닌 확장",
-    "summary": "",
+    "summary": "• LINE Album QA는 AI를 단순 보조 도구가 아닌 **품질 운영 체계 자체**로 재설계하여 30개 이상의 자동화 워크플로를 운영 중\n• QA의 핵심 문제는 테스트 속도가 아닌 **분산된 정보(기획문서·Slack·Jira·사용자 리뷰 등)의 빠른 구조화 및 리스크 판단**임을 확인\n• AI를 '대화형 호출 도구'에서 **이벤트 반응형 시스템**(Jira 이슈 생성·PR·테스트 실행·사용자 피드백 등에 자동 반응)으로 전환\n• 자동화 구조는 **스케줄 기반(정기 분석)**과 **웹훅 기반(이벤",
     "date": "2026-05-18",
-    "loading": true
+    "loading": false
   },
   {
     "id": "1779079097112",
