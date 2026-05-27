@@ -42,8 +42,8 @@
   {
     "id": "1779168771108",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SONARQUBE_EXECUTIVE_REPORT_20260226_103816.HTML",
-    "title": "웅진씽크빅 GitHub Enterprise 전환 및 SonarQube 보안 검토 체계 구축 현황",
-    "summary": "• GitHub Enterprise Cloud 전환 진행 중 — 전체 60명 중 42명 등록, 총 2,915개 레파지토리 운영, 월 라이선스 비용 $882 예상\n• SVN/GitBlit → GitHub CI/CD 전환 완료: 백엔드 97개 중 53개, 프론트엔드 195개 중 182개 전환 완료\n• SonarQube(Community Edition) 보안 룰 59개 적용 — 행안부 가이드 기반 커스텀 룰 21개 포함\n• 분석 방법 2가지 운영: PR 생성 시 GitHub Actions 자동 분석 + Jenkins 주말 배치 스케줄 주기적 전체 분석\n• 향후 계획: 스마트올 Jenkins 서버 통합 및 클래스 파일",
+    "title": "웅진씽크빅 GitHub Enterprise 전환 및 SonarQube 코드 보안 검토 체계 구축 현황",
+    "summary": "• GitHub Enterprise Cloud 전환 진행 중 — 42/60명 계정 등록, 레파지토리 총 2,915개, 월 라이선스 비용 $882 ($21/user)\n• SVN/GitBlit → GitHub 전환 완료: 백엔드 97개 중 53개, 프론트엔드 195개 중 182개 CI/CD 설정 완료\n• SonarQube 보안 룰 59개 운영 (행안부 가이드 기반 커스텀 룰 21개 포함), Java 보안성 검토 적용\n• 분석 방식 2원화: GitHub Actions(PR 생성 시 자동 분석 및 코멘트) + Jenkins 스케줄(주말 배치 전체 분석)\n• 향후 계획: 스마트올 Jenkins 서버 통합",
     "date": "2026-02-26T01:38:28.000Z",
     "loading": false
   },
