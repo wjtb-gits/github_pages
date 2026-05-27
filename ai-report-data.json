@@ -1,5 +1,13 @@
 [
   {
+    "id": "1779843512040",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/6_VOC_1_260521.HTML",
+    "title": "학습컨텐츠 오류 VOC 1,301건 집중 분석 — 서버 이슈·완료 미처리·UX 개선이 핵심",
+    "summary": "• 학습컨텐츠 오류 VOC 총 1,301건(월 평균 260건), 전체 VOC의 17.2%로 이슈유형 2위이며 원격이관 비율 86.9%로 고객 셀프 해결 거의 불가\n• 서버 이슈가 전체 원인 1위(38.4%, 280건) — 확정 27.9%, AI추정 42.8% 모두 서버가 최다이며, 집합형 고도화 관련 이슈는 현재 해결 완료\n• 학습 완료 미처리·멈춤이 개인 패드 최다 증상(85건) — 학습을 끝까지 했음에도 완료 미처리되는 고객 불만 최대 이",
+    "date": "2026-05-21T04:45:58.000Z",
+    "loading": false
+  },
+  {
     "id": "1779355324152",
     "url": "https://techblog.lycorp.co.jp/ko/reduce-repetitive-tasks-with-sre-bot",
     "title": "SRE 봇으로 반복 작업 10분의 1 감축 — Slack 기반 자동화 개발기",
