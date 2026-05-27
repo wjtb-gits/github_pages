@@ -1,16 +1,9 @@
 [
   {
-    "action": "등록",
-    "title": "컨텐츠 안보임/안열림 VOC 1,184건 집중 분석 및 대응 방안",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/7_VOC_260526.HTML",
-    "date": "2026-05-27T00:59:01.710Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "학습컨텐츠 오류 VOC 1,301건 집중 분석 — 서버 이슈·완료 미처리·UX 개선이 핵심",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/6_VOC_1_260521.HTML",
-    "date": "2026-05-27T00:58:41.273Z",
+    "action": "삭제",
+    "title": "제목 없음",
+    "url": "https://agent-qa-report.wjthinkbig-cloud.com/",
+    "date": "2026-05-27T02:23:31.071Z",
     "admin": true
   }
 ]
