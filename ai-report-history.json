@@ -1,5 +1,12 @@
 [
   {
+    "action": "삭제",
+    "title": "제목 없음",
+    "url": "https://medium.com/wjthinkbig/팀별-제각기-쓰던-claude를-회사-인프라로-통일한-이유-f21a51f3eb87",
+    "date": "2026-06-04T04:17:25.458Z",
+    "admin": true
+  },
+  {
     "action": "등록",
     "title": "Claude Code·Codex 실무 활용 꿀팁 — 토큰 절약·멀티 에이전트·Figma 워크플로",
     "url": "https://cache.wjthinkbig.com/TEST/CODING_AGENT/1/SHARE.HTML#token",
