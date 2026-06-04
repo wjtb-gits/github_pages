@@ -1,5 +1,13 @@
 [
   {
+    "id": "1780548332288",
+    "url": "https://medium.com/wjthinkbig/교육은-기술이-아니라-사람이-먼저다-85b6b3bc59bb",
+    "title": "분석 실패",
+    "summary": "페이지를 가져올 수 없습니다. (모든 프록시 실패 → r.jina.ai:차단 / allorigins:차단 / corsproxy.io:403 / codetabs:차단)",
+    "date": "2026-06-04",
+    "loading": false
+  },
+  {
     "id": "1780548248034",
     "url": "https://medium.com/wjthinkbig/팀별-제각기-쓰던-claude를-회사-인프라로-통일한-이유-f21a51f3eb87",
     "title": "팀별 개인 Claude 계정 → AWS Bedrock 기반 중앙 게이트웨이로 통일한 이유",
