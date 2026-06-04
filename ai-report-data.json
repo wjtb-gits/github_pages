@@ -1,5 +1,13 @@
 [
   {
+    "id": "1780549550803",
+    "url": "https://cache.wjthinkbig.com/TEST/CODING_AGENT/1/SHARE.HTML#links",
+    "title": "Claude Code · Codex AI 코딩 활용 꿀팁 — 토큰 절약·멀티 에이전트·Figma 설계",
+    "summary": "• **Claude Opus 4.8** (2026.05.28 출시): SWE-bench 88.6%, 1M 컨텍스트 표준 제공, Fast mode 3배 저렴($10/$50), 병렬 subagent 기반 Dynamic Workflow 지원\n• **토큰·세션 절약**: `/session-end` → `session-log.md` 기록, 다음 대화에서 `/session-start`로 최신 50줄만 읽어 수천~수만 토큰 절감\n• **멀티 에이전트 협업**: Claude로 plan 작성 후 Codex에 교차 리뷰 요청해 계획 품질 향상\n• **프롬프트 품질**: \"만들어줘\" 대신 목적·대상·조건·예시·결과형식을 함께 전달",
+    "date": "2026-06-04",
+    "loading": false
+  },
+  {
     "id": "1780549486331",
     "url": "https://www.velopers.kr/post/2381",
     "title": "올리브영 QA팀의 AWS Lambda 기반 On-call 인시던트 자동화 시스템 구축",
