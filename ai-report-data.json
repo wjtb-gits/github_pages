@@ -1,5 +1,13 @@
 [
   {
+    "id": "1780549486331",
+    "url": "https://www.velopers.kr/post/2381",
+    "title": "올리브영 QA팀의 AWS Lambda 기반 On-call 인시던트 자동화 시스템 구축",
+    "summary": "• 기존 슬랙 알림 미수신으로 인한 장애 전파 문제를 해결하기 위해 On-call 시스템 도입\n• AWS Lambda를 활용해 서버 관리 없이 인시던트 발생 시 슬랙 채널 자동 생성 및 담당자 초대 수행\n• CloudWatch Logs 감지 → Jira 티켓 자동 생성 → 온콜 웹훅으로 담당자 전화 알림까지 자동화\n• Lambda 도입으로 확장성·유연성 향상 및 운영 비용 절감 효과 달성",
+    "date": "2026-06-04",
+    "loading": false
+  },
+  {
     "id": "1780548332288",
     "url": "https://medium.com/wjthinkbig/교육은-기술이-아니라-사람이-먼저다-85b6b3bc59bb",
     "title": "기술보다 사람 먼저 — 웅진씽크빅의 AI 교육 철학",
