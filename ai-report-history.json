@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "Claude Code · Codex AI 코딩 활용 꿀팁 — 토큰 절약·멀티 에이전트·Figma 설계",
+    "url": "https://cache.wjthinkbig.com/TEST/CODING_AGENT/1/SHARE.HTML#links",
+    "date": "2026-06-04T05:06:05.682Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "올리브영 QA팀의 AWS Lambda 기반 On-call 인시던트 자동화 시스템 구축",
     "url": "https://www.velopers.kr/post/2381",
     "date": "2026-06-04T05:04:58.390Z",
