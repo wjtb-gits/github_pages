@@ -1,5 +1,12 @@
 [
   {
+    "action": "등록",
+    "title": "올리브영 QA팀의 AWS Lambda 기반 On-call 인시던트 자동화 시스템 구축",
+    "url": "https://www.velopers.kr/post/2381",
+    "date": "2026-06-04T05:04:58.390Z",
+    "admin": true
+  },
+  {
     "action": "삭제",
     "title": "제목 없음",
     "url": "https://medium.com/wjthinkbig/팀별-제각기-쓰던-claude를-회사-인프라로-통일한-이유-f21a51f3eb87",
