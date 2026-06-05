@@ -1,5 +1,13 @@
 [
   {
+    "id": "1780639822897",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/8_VOC_260605.HTML",
+    "title": "설치오류 VOC 641건 집중 분석 — SM-X200·스마트올초등 중심 원격이관 85.6%",
+    "summary": "• 전체 VOC 7,561건 중 설치오류는 641건(8.5%, 5위), 월 평균 128건 발생하며 1월 최다(201건, AOS14 대응 앱 배포 급증+신학기 개통 집중)\n• 설치오류의 85.6%(549건)가 원격이관으로 처리 — 설치 단계는 자가 해결이 사실상 불가한 구조\n• 서비스별 1위 스마트올초등 308건(48.0%), 기종별 1위 SM-X200 286건(44.6%)으로 특정 서비스·기종 편중 뚜렷\n• 세부 원인 1위는 앱 설치 파일 오류/다운로드 실패 42.3%(232건) + 네트워크/",
+    "date": "2026-06-05",
+    "loading": false
+  },
+  {
     "id": "1780549550803",
     "url": "https://cache.wjthinkbig.com/TEST/CODING_AGENT/1/SHARE.HTML#links",
     "title": "Claude Code · Codex AI 코딩 활용 꿀팁 — 토큰 절약·멀티 에이전트·Figma 설계",
