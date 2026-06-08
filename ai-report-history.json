@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "Slack 한 줄 질문으로 끝내는 Observability AI Agent 구축기",
+    "url": "https://medium.com/wjthinkbig/에러-확인을-slack-한-줄로-해결-observability-ai-agent-구축기-dff8669b62b8",
+    "date": "2026-06-08T10:33:20.464Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "설치오류 VOC 641건 집중 분석 — SM-X200·스마트올초등 중심 원격이관 85.6%",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/8_VOC_260605.HTML",
     "date": "2026-06-05T06:10:36.970Z",
