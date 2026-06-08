@@ -1,5 +1,13 @@
 [
   {
+    "id": "1780914787002",
+    "url": "https://medium.com/wjthinkbig/에러-확인을-slack-한-줄로-해결-observability-ai-agent-구축기-dff8669b62b8",
+    "title": "Slack 한 줄 질문으로 끝내는 Observability AI Agent 구축기",
+    "summary": "• Grafana·Loki·Tempo·GitHub를 수동으로 뒤지던 장애 분석을, Slack 자연어 질문 한 줄로 대체하는 멀티 에이전트 시스템 구축\n• 파이프라인은 **Slack → n8n → Strands Agents(LLM) → Prometheus·Loki·Tempo·GitHub·kubectl** 순으로 연결, 결과는 Slack 댓글로 회신\n• 에이전트의 핵심 가치는 개별 쿼리 실행이 아닌 **로그 조회 → 트레이스 추적 → 소스 코드 분석 → 원인·조치 요약**의 다단계 추론 자동화\n• 가장 많은 시간을 소비한 난관은 OTel 애플리케이션 메트릭(`service_name` 라벨",
+    "date": "2026-06-08",
+    "loading": false
+  },
+  {
     "id": "1780639822897",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/8_VOC_260605.HTML",
     "title": "설치오류 VOC 641건 집중 분석 — SM-X200·스마트올초등 중심 원격이관 85.6%",
