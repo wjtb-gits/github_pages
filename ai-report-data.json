@@ -1,5 +1,13 @@
 [
   {
+    "id": "1781140709506",
+    "url": "http://techblog.gccompany.co.kr/%EC%84%9C%EB%B2%84%EA%B0%80-%EC%A3%BD%EC%97%88%EC%96%B4%EC%9A%94-%EC%97%90%EC%84%9C-%EC%8B%9C%EC%9E%91%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-grafana-oncall%EA%B3%BC-amazon-connect%EB%A1%9C-%EC%99%84%EC%84%B1%ED%95%9C-%EC%8B%A4%EC%A0%84%ED%98%95-%EC%98%A8%EC%BD%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-6795f3c044fd?source=rss----18356045d353---4",
+    "title": "Grafana OnCall + Amazon Connect로 구축한 비용 최적화 실전형 온콜 시스템",
+    "summary": "• **문제 인식**: 야간 장애 발생 시 \"누가, 어떻게, 얼마나 빠르게\" 대응할지 체계가 없어, 자동화된 온콜 시스템 구축 필요성 대두\n• **기술 스택 구성**: LGTM Stack(Loki·Grafana·Tempo·Mimir) 위에 Grafana OnCall을 추가해 장애 탐지→알림→대응까지 단일 플랫폼으로 통합\n• **인프라 안정성 확보**: 기본 SQLite 대신 AWS RDS(MySQL) 연동 + EKS Helm Chart(oncall 1.16.5) 배포로 Pod 재시작·스케일링 시에도 온콜 설정 유지\n• **자동 전화 알림 구현**: AWS Target Group의 Unhealthy 상",
+    "date": "2026-06-11",
+    "loading": false
+  },
+  {
     "id": "1781140684958",
     "url": "https://www.velopers.kr/post/6010",
     "title": "Grafana OnCall + Amazon Connect로 구축한 실전형 온콜 자동화 시스템 - 여기어때",
