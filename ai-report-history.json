@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "Grafana OnCall + Amazon Connect로 구축한 실전형 온콜 자동화 시스템 - 여기어때",
+    "url": "https://www.velopers.kr/post/6010",
+    "date": "2026-06-11T01:18:13.885Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "GitHub Enterprise Cloud 이관 현황 및 SonarQube AI vs 일반 프로젝트 코드 품질 비교 보고",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/GitHub_SonarQube_%EB%B3%B4%EA%B3%A0%EC%84%9C_20260609.html",
     "date": "2026-06-11T01:17:33.414Z",
