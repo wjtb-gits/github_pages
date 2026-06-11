@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "GitHub Enterprise Cloud 이관 현황 및 SonarQube AI vs 일반 프로젝트 코드 품질 비교 보고",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/GitHub_SonarQube_%EB%B3%B4%EA%B3%A0%EC%84%9C_20260609.html",
+    "date": "2026-06-11T01:17:33.414Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "Slack 한 줄 질문으로 끝내는 Observability AI Agent 구축기",
     "url": "https://medium.com/wjthinkbig/에러-확인을-slack-한-줄로-해결-observability-ai-agent-구축기-dff8669b62b8",
     "date": "2026-06-08T10:33:20.464Z",
