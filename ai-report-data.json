@@ -1,5 +1,13 @@
 [
   {
+    "id": "1781140684958",
+    "url": "https://www.velopers.kr/post/6010",
+    "title": "Grafana OnCall + Amazon Connect로 구축한 실전형 온콜 자동화 시스템 - 여기어때",
+    "summary": "• LGTM 스택(Loki, Tempo, Mimir)과 Grafana OnCall 통합으로 모니터링→알림→대응 흐름을 일원화\n• ELBv2 API로 Target Group의 Unhealthy 상태를 실시간 탐지하고 iCal 스케줄로 담당자 조회 후 Amazon Connect로 즉시 자동 발신\n• Slack 연동으로 전화 중지 제어 및 DB 기반 상태 관리로 중복 알림 차단, 비용 최적화 달성",
+    "date": "2026-06-11",
+    "loading": false
+  },
+  {
     "id": "1781140640951",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/GitHub_SonarQube_%EB%B3%B4%EA%B3%A0%EC%84%9C_20260609.html",
     "title": "GitHub Enterprise Cloud 이관 현황 및 SonarQube AI vs 일반 프로젝트 코드 품질 비교 보고",
