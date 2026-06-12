@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "Jira VOC 819건 분석 — 99.5% 해결률이나 5월 서버 이슈 191% 급증",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/Jira_VOC_2601_2605_%EB%B3%B4%EA%B3%A0%EC%84%9C.HTML",
+    "date": "2026-06-12T07:29:53.476Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "씽키 챗봇 일별 접속 통계 대시보드 (S3 로그 기반)",
     "url": "https://thinkey.wjtb.kr/dashboard.html",
     "date": "2026-06-12T07:29:44.051Z",
