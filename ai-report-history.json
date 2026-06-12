@@ -1,5 +1,12 @@
 [
   {
+    "action": "등록",
+    "title": "씽키 챗봇 대시보드 - 일별 접속 및 메시지 통계 (S3 로그 기반)",
+    "url": "https://thinkey.wjtb.kr/dashboard.html",
+    "date": "2026-06-12T07:30:16.744Z",
+    "admin": true
+  },
+  {
     "action": "삭제",
     "title": "씽키 챗봇 일별 접속 통계 대시보드 (S3 로그 기반)",
     "url": "https://thinkey.wjtb.kr/dashboard.html",
