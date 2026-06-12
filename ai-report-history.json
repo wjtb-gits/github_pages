@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "씽키 챗봇 일별 접속 통계 대시보드 (S3 로그 기반)",
+    "url": "https://thinkey.wjtb.kr/dashboard.html",
+    "date": "2026-06-12T07:29:44.051Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "VOC 대응 개발 현황 — 챗봇·온콜·학습환경 점검 성과 분석",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/9_VOC_260612.HTML",
     "date": "2026-06-12T07:29:30.754Z",
