@@ -1,5 +1,13 @@
 [
   {
+    "id": "1783557512199",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/11_VOC_260708.HTML",
+    "title": "VOC 플랫폼 개발 현황 — 링키 챗봇·온콜 서비스·앱 개선 진행",
+    "summary": "• **링키(Linkey) 관리자 FAQ 챗봇** POC 단계로 7/27 '북클럽통' 베타 오픈 예정, Anthropic AI 기반 Node.js/PostgreSQL 스택 구성 완료\n• **온콜 서비스** 6/11 인프라 구축 완료, 8/12 서비스 오픈 목표 — Grafana Alert → Lambda → Amazon Connect TTS 전화 + 알림톡 이중 알림 구조\n• **씽키 챗봇 시나리오 개선** 완료 시 원격이관 전 자가 해결 47~63건(15~20%) 감소 기대, 홈페이지 고객지원 페이지 씽키 전환 7/6 완료\n• **학습 환경 사전 점검 알림·QR",
+    "date": "2026-07-08",
+    "loading": false
+  },
+  {
     "id": "1782270374044",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/10_VOC_260624.html",
     "title": "VOC 패드 사전점검 알림 전환율 분석 — 20일간 xAPI 퍼널 데이터",
