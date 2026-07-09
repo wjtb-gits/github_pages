@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "VOC 플랫폼 개발 현황 — 링키 챗봇·온콜 서비스·앱 개선 진행",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/11_VOC_260708.HTML",
+    "date": "2026-07-09T00:38:43.682Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "VOC 패드 사전점검 알림 전환율 분석 — 20일간 xAPI 퍼널 데이터",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/10_VOC_260624.html",
     "date": "2026-06-24T03:06:24.703Z",
