@@ -1,16 +1,16 @@
 [
   {
     "action": "등록",
-    "title": "VOC 플랫폼 개발 현황 — 링키 챗봇·온콜 서비스·앱 개선 진행",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/11_VOC_260708.HTML",
-    "date": "2026-07-09T00:38:43.682Z",
+    "title": "LLM 비용 64% 절감 — 메트릭 가시성 확보 후 Prompt Caching으로 캐시 히트율 98% 달성",
+    "url": "https://techblog.musinsa.com/llm-%EB%B9%84%EC%9A%A9-64-%EC%A0%88%EA%B0%90-%EC%BA%90%EC%8B%9C-%ED%9E%88%ED%8A%B8%EC%9C%A8-98-%EB%8B%AC%EC%84%B1%EA%B8%B0-d568135bd40e",
+    "date": "2026-07-10T01:09:12.473Z",
     "admin": true
   },
   {
     "action": "등록",
-    "title": "VOC 패드 사전점검 알림 전환율 분석 — 20일간 xAPI 퍼널 데이터",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/10_VOC_260624.html",
-    "date": "2026-06-24T03:06:24.703Z",
+    "title": "2026년 상반기 IT VOC 3% 수준, 하반기 20% 감소 목표 추진",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/0_IT_VOC_260514.HTML",
+    "date": "2026-05-19T04:44:09.528Z",
     "admin": true
   }
 ]
