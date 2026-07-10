@@ -1,5 +1,13 @@
 [
   {
+    "id": "1783645744059",
+    "url": "https://techblog.musinsa.com/llm-%EB%B9%84%EC%9A%A9-64-%EC%A0%88%EA%B0%90-%EC%BA%90%EC%8B%9C-%ED%9E%88%ED%8A%B8%EC%9C%A8-98-%EB%8B%AC%EC%84%B1%EA%B8%B0-d568135bd40e",
+    "title": "LLM 비용 64% 절감 — 메트릭 가시성 확보 후 Prompt Caching으로 캐시 히트율 98% 달성",
+    "summary": "• AWS Bedrock 콘솔은 API별 토큰 사용량을 제공하지 않아, LangChain4j + Prometheus + Grafana로 API별 메트릭 대시보드를 직접 구축\n• 대시보드 분석 결과 단일 속성추출 API가 전체 LLM 토큰의 약 92%를 차지하는 것을 발견\n• 핵심 원인은 매 호출마다 약 15K 토큰의 동일한 시스템 프롬프트를 반복 전송하는 구조\n• AWS Bedrock의 Prompt Caching 도입으로 시스템 프롬프트를 캐싱하여 캐시 히트율 98% 달성\n• 최종적으로 LLM 비용 64%",
+    "date": "2026-07-10",
+    "loading": false
+  },
+  {
     "id": "1783557512199",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/11_VOC_260708.HTML",
     "title": "VOC 플랫폼 개발 현황 — 링키 챗봇·온콜 서비스·앱 개선 진행",
