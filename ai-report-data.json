@@ -1,5 +1,13 @@
 [
   {
+    "id": "1784011225014",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260714_AI_거버넌스_현황_실행_통합보고.HTML",
+    "title": "사내 AI 거버넌스 1차 보고 – 현황 진단 및 실행계획",
+    "summary": "• Claude 사용자가 53명(78%)으로 가장 많고, 코드개발·기획·데이터 분석 등 거의 전 업무에 AI 활용 중\n• AI 비용은 법인카드(구독)와 AWS(Bedrock·Kiro) 두 경로에 분산되며, 5~6월 기준 월 약 650~724만 원 수준\n• 3대 리스크 진단: ①툴 도입 기준 부재, ②사용 추적 체계 없음, ③비용 가시성 불투명\n• 리스크 해소를 위한 6개 과제(T1~T6) 정의 – P1(즉시): 사용현황 마스터 구축·도입 판단 프로세스 수립\n• AI 거버넌스 체계 완성 목표: 9월 이내",
+    "date": "2026-07-14",
+    "loading": false
+  },
+  {
     "id": "1783645744059",
     "url": "https://techblog.musinsa.com/llm-%EB%B9%84%EC%9A%A9-64-%EC%A0%88%EA%B0%90-%EC%BA%90%EC%8B%9C-%ED%9E%88%ED%8A%B8%EC%9C%A8-98-%EB%8B%AC%EC%84%B1%EA%B8%B0-d568135bd40e",
     "title": "LLM 비용 64% 절감 — 메트릭 가시성 확보 후 Prompt Caching으로 캐시 히트율 98% 달성",
