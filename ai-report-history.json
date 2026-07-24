@@ -1,37 +1,23 @@
 [
   {
     "action": "등록",
-    "title": "사내 AI 거버넌스 1차 보고 — 현황 진단 및 실행계획",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260714_AI_거버넌스_현황_실행_통합보고.HTML",
-    "date": "2026-07-14T06:42:23.905Z",
-    "admin": true
-  },
-  {
-    "action": "삭제",
-    "title": "사내 AI 거버넌스 1차 보고 – 현황 진단 및 실행계획",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260714_AI_거버넌스_현황_실행_통합보고.HTML",
-    "date": "2026-07-14T06:42:11.445Z",
+    "title": "웅진씽크빅 카카오톡 채널 방치 현황 및 2트랙 셀프서비스 채널 개편안",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/12_VOC_260724.html",
+    "date": "2026-07-24T02:21:33.113Z",
     "admin": true
   },
   {
     "action": "등록",
-    "title": "사내 AI 거버넌스 1차 보고 – 현황 진단 및 실행계획",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260714_AI_거버넌스_현황_실행_통합보고.HTML",
-    "date": "2026-07-14T06:40:37.976Z",
+    "title": "VOC 플랫폼 개발 현황 — 링키 챗봇·온콜 서비스·앱 개선 진행",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/11_VOC_260708.HTML",
+    "date": "2026-07-09T00:38:43.682Z",
     "admin": true
   },
   {
     "action": "등록",
-    "title": "컨텐츠 안보임/안열림 VOC 1,184건 집중 분석 및 대응 방안",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/7_VOC_260526.HTML",
-    "date": "2026-05-27T00:59:01.710Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "학습컨텐츠 오류 VOC 1,301건 집중 분석 — 서버 이슈·완료 미처리·UX 개선이 핵심",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/6_VOC_1_260521.HTML",
-    "date": "2026-05-27T00:58:41.273Z",
+    "title": "VOC 패드 사전점검 알림 전환율 분석 — 20일간 xAPI 퍼널 데이터",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/10_VOC_260624.html",
+    "date": "2026-06-24T03:06:24.703Z",
     "admin": true
   }
 ]
