@@ -1,5 +1,13 @@
 [
   {
+    "id": "1785380464450",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260728_AI_%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4_T2_%EB%8F%84%EC%9E%85%EA%B8%B0%EC%A4%80_%EB%B3%B4%EA%B3%A0_2%EC%B0%A8.html",
+    "title": "사내 AI 거버넌스 T2 — AI 툴 도입 판단·관리 프로세스 수립 기준 보고",
+    "summary": "• Claude 사용자가 53명(78%)으로 최다, 전사 AI 비용은 1월 83만원 → 6월 854만원으로 급증\n• 비용 기안 결재는 있으나, 도입 판단 기준·사용 추적 체계·비용 통합 가시성 등 3가지 리스크 존재\n• T2 과제: 새 툴 도입 시 목적·보안·비용 기반의 판단 기준 및 관리 프로세스 수립(P1 최우선)\n• 총 6개 과제(T1~T6)로 리스크 대응, P1(즉시) → P2(후속) 순으로 단계적 실행\n• 최종 목표는 일회성 조사가 아닌 월 단위 정기 점검",
+    "date": "2026-07-30",
+    "loading": false
+  },
+  {
     "id": "1784859676348",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/12_VOC_260724.html",
     "title": "웅진씽크빅 카카오톡 채널 방치 현황 및 2트랙 셀프서비스 채널 개편안",
