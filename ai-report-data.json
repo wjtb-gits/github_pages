@@ -1,5 +1,13 @@
 [
   {
+    "id": "1785386102865",
+    "url": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-customer-service-refund-automation/",
+    "title": "Amazon Bedrock AgentCore로 2주 만에 구현한 CS 환불 자동응답 에이전트",
+    "summary": "• 어스얼라이언스가 AWS DEVCRAFT 2026 해커톤(2주)을 통해 채널톡 CS 환불 문의 자동응답 에이전트를 구축\n• 고객 메시지 수신 → 2분 Debounce → AgentCore Runtime 실행 → 채널톡 내부 대화로 초안 전달 → 매니저 검수 후 발송하는 4단계 파이프라인 구조\n• 기존에는 환불 1건 답변을 위해 어드민 여러 화면에서 수동 조회가 필요했으나, 에이전트가 결제이력·이용기록·환불내역을 자동 조회해 근거 데이터와 답변 초안을 한 곳에서 제공\n• Amazon Bedrock AgentCore Runtime + Strands SDK + AgentCore Memory",
+    "date": "2026-07-30",
+    "loading": false
+  },
+  {
     "id": "1785380464450",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260728_AI_%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4_T2_%EB%8F%84%EC%9E%85%EA%B8%B0%EC%A4%80_%EB%B3%B4%EA%B3%A0_2%EC%B0%A8.html",
     "title": "사내 AI 거버넌스 T2 — AI 툴 도입 판단·관리 프로세스 수립 기준 보고",
