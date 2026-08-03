@@ -1,5 +1,13 @@
 [
   {
+    "id": "1785744416980",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/VOC_list_260803.HTML",
+    "title": "VOC 감소·장애 선제 대응을 위한 SRE 업무 자동화 추진 현황",
+    "summary": "• 패드 학습 환경 자동 점검 기능 도입 — 49일간 4,318건 재시작 완료, Wi-Fi·호환 관련 VOC 55~70건 감소 기대\n• 설치 앱 QR 가이드 상시 노출로 누적 318건 조회, 설치 실패 자가 해결 전환 77~103건(30~40%) 감소 기대\n• 씽키 챗봇 활용 확대 — 마일리지 소멸 알림톡에 챗봇 URL 삽입(8월 반영 예정), 웅진씽크빅 홈페이지 고객지원 챗봇 전환 완료(7/6)\n• Grafana 모니터링 + VOC 콜 Works 실시간 알림으로 장애 선제 감지",
+    "date": "2026-08-03",
+    "loading": false
+  },
+  {
     "id": "1785386102865",
     "url": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-customer-service-refund-automation/",
     "title": "Amazon Bedrock AgentCore로 2주 만에 구현한 CS 환불 자동응답 에이전트",
