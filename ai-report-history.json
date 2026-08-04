@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "VOC 플랫폼 엔지니어링 업무 진행 현황 (챗봇·온콜·앱 개선)",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/13_VOC_260804.html",
+    "date": "2026-08-04T07:19:59.232Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "VOC 감소·장애 선제 대응을 위한 SRE 업무 자동화 추진 현황",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/VOC_list_260803.HTML",
     "date": "2026-08-03T08:08:17.412Z",
