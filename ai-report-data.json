@@ -1,5 +1,13 @@
 [
   {
+    "id": "1785827970548",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/13_VOC_260804.html",
+    "title": "VOC 플랫폼 엔지니어링 업무 진행 현황 (챗봇·온콜·앱 개선)",
+    "summary": "• **Pad Alert 사전 점검 알림** 60일간 166,587건 노출 → 4,947건 재시작 완료, 단 선택률 7.2%로 노출 방식 개선 필요\n• **씽키 챗봇** 5/1~8/2 총 1,539클릭, '계약확인(32.7%)'·'제품찾기(23.2%)'·'포인트/마일리지(14.0%)' 순으로 수요 집중\n• **온콜 서비스** AWS Connect+Lambda+DynamoDB 기반 구축 완료, 7/29 POC 진행 중이며 8/12 오픈 예정\n• **마일리지 소멸 알림톡** 8/3 서비스 오픈(1,291건 발송), 당일 VOC 인입 0건",
+    "date": "2026-08-04",
+    "loading": false
+  },
+  {
     "id": "1785744416980",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/VOC_list_260803.HTML",
     "title": "VOC 감소·장애 선제 대응을 위한 SRE 업무 자동화 추진 현황",
