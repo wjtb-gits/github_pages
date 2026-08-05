@@ -1,5 +1,13 @@
 [
   {
+    "id": "1785888802468",
+    "url": "https://earendil.com/posts/prompt-caching/",
+    "title": "AI 코딩 에이전트의 프롬프트 캐싱 작동 원리와 실무적 중요성",
+    "summary": "• 코딩 에이전트는 매 턴마다 거의 동일한 대용량 프롬프트를 반복 전송하므로, KV 캐시 재사용이 비용·속도에 직결됨\n• KV 캐시는 트랜스포머의 prefill 단계에서 생성된 Key/Value 텐서를 저장해 동일한 토큰 접두사를 재계산 없이 재활용하는 구조\n• 캐시 저장 방식은 크게 **세션 어피니티**(동일 GPU 워커로 라우팅)와 **분산 캐시 저장소** 두 가지로 나뉨\n• 도구 정의 변경, 모델 교체, 라우팅 변경 등 작은 요소 하나만 바뀌어도",
+    "date": "2026-08-05",
+    "loading": false
+  },
+  {
     "id": "1785827970548",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/13_VOC_260804.html",
     "title": "VOC 플랫폼 엔지니어링 업무 진행 현황 (챗봇·온콜·앱 개선)",
