@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "AI 에이전트 코딩 바겐세일의 종말과 개발자 생존 전략",
+    "url": "https://meetup.nhncloud.com/posts/420",
+    "date": "2026-08-12T04:17:32.011Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "AI 코딩 에이전트의 프롬프트 캐싱 작동 원리와 실무적 중요성",
     "url": "https://earendil.com/posts/prompt-caching/",
     "date": "2026-08-05T00:13:37.731Z",
