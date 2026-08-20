@@ -1,11 +1,19 @@
 [
   {
-    "id": "1787208735002",
-    "url": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-litellm-integration/",
+    "id": "1787208743241",
+    "url": "https://aws.amazon.com/ko/blogs/tech/fnf-llm-gateway-on-amazon-bedrock/",
     "title": "",
     "summary": "",
     "date": "2026-08-20",
     "loading": true
+  },
+  {
+    "id": "1787208735002",
+    "url": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-litellm-integration/",
+    "title": "Amazon Bedrock + LiteLLM 게이트웨이의 호출자 추적 및 모델 거버넌스 사각지대 해결",
+    "summary": "• LLM 게이트웨이 도입 시 모든 요청이 단일 IAM 역할로 집약되어, Bedrock 로그에서 개별 사용자/팀 신원이 사라지는 사각지대 발생\n• `X-Amzn-Bedrock-Request-Metadata` 헤더로 호출자 정보를 실어 보내 Bedrock Model Invocation Log의 `requestMetadata` 필드에 복원, `litellm_call_id`로 게이트웨이 로그와 대사 가능\n• Application Inference Profile을 모델별로 생성·태그 부착하여 CloudWatch 모델별 메트릭 관측 및 IAM 접근 거버넌스(승인된 모델만 허용) 확보\n• 설계 원칙: \"게이트웨이",
+    "date": "2026-08-20",
+    "loading": false
   },
   {
     "id": "1787208723738",
