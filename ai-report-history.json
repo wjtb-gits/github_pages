@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "Amazon Bedrock + LiteLLM 게이트웨이의 호출자 추적 및 모델 거버넌스 사각지대 해결",
+    "url": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-litellm-integration/",
+    "date": "2026-08-20T06:52:26.967Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "한화솔루션, Amazon Bedrock 기반 사내 LLM Gateway로 Claude 전사 도입 (국내 첫 사례)",
     "url": "https://aws.amazon.com/ko/blogs/tech/hanwha-claude-cowork-on-bedrock/",
     "date": "2026-08-20T06:52:17.947Z",
