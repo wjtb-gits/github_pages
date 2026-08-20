@@ -1,5 +1,13 @@
 [
   {
+    "id": "1787187582460",
+    "url": "http://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/EC2%20%EA%B4%80%EC%A0%9C%20%EC%84%A4%EC%A0%95%20%ED%98%84%ED%99%A9%20(%EB%B9%84%ED%91%9C%EC%A4%80%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8).HTML",
+    "title": "씽크빅 운영 EC2 인스턴스별 CPU/메모리/디스크 관제 임계값 설정 현황",
+    "summary": "• 총 25개 이상의 EC2 인스턴스를 대상으로 CPU·메모리·디스크 3개 지표에 대해 3단계(경고→주의→심각) 알람 임계값 설정\n• CPU는 대부분 90%/10m 기준이나, 일부 서버(Bookclub 계열)는 50%/10m으로 낮게 설정해 민감 모니터링 적용\n• 메모리 임계값은 서버 역할에 따라 상이(70~98%), 특히 Dev 서버군은 80~98%로 높게 설정\n• 디스크는 대부분 90%/1m 기준이나, Mongo DB 및 Bookclub-Cms-Api 서버는 92~93%로 별도 기준 적용\n• Dev(개발계)·P",
+    "date": "2026-08-20",
+    "loading": false
+  },
+  {
     "id": "1786585857836",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/0_AI거버넌스_3차 보고서.HTML",
     "title": "AI 도구 운영·관리 체계 수립 — 신청/검토/대시보드 3차 보고",
