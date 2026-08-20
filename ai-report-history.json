@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "한화솔루션, Amazon Bedrock 기반 사내 LLM Gateway로 Claude 전사 도입 (국내 첫 사례)",
+    "url": "https://aws.amazon.com/ko/blogs/tech/hanwha-claude-cowork-on-bedrock/",
+    "date": "2026-08-20T06:52:17.947Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "Claude Apps Gateway on AWS – 엔터프라이즈 Claude 사용 환경 중앙화 구성 가이드",
     "url": "https://aws.amazon.com/ko/blogs/tech/claude-apps-gateway-with-aws/",
     "date": "2026-08-20T06:52:05.782Z",
