@@ -1,5 +1,13 @@
 [
   {
+    "id": "1787208713593",
+    "url": "https://aws.amazon.com/ko/blogs/tech/claude-apps-gateway-with-aws/",
+    "title": "Claude Apps Gateway on AWS – 엔터프라이즈 Claude 사용 환경 중앙화 구성 가이드",
+    "summary": "• Claude Apps Gateway는 Claude Code CLI 바이너리에 기본 내장된 LLM Gateway로, `claude gateway --config gateway.yaml` 명령 하나로 서버 동작\n• API Key 대신 Okta·Entra ID·Keycloak 등 OIDC 기반 IdP SSO 로그인 + 단기 세션 토큰으로 인증, 그룹·사용자별 모델 접근 및 사용량 통제 가능\n• 동작 요건: Claude Code v2.1.195 이상, Private Network(VPN/Direct Connect) 연결, HTTPS(ALB 또는 Nginx), PostgreSQL 14 이상(RDS/Aurora)\n• IdP 그룹별 Managed Settings를 동적으로 배포하여 모델·툴 접근 권한을 클라이언트에 강제 적용 가능(순수 Bedrock",
+    "date": "2026-08-20",
+    "loading": false
+  },
+  {
     "id": "1787187605084",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/RDS%20%EA%B4%80%EC%A0%9C%20%EC%84%A4%EC%A0%95%20%ED%98%84%ED%99%A9%20(%EB%B9%84%ED%91%9C%EC%A4%80%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8).HTML",
     "title": "씽크빅 운영 RDS 관제 알람 임계값 설정 현황",
