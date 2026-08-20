@@ -2,10 +2,10 @@
   {
     "id": "1787208743241",
     "url": "https://aws.amazon.com/ko/blogs/tech/fnf-llm-gateway-on-amazon-bedrock/",
-    "title": "",
-    "summary": "",
+    "title": "F&F, Amazon Bedrock + LiteLLM 게이트웨이로 사내 LLM 키 발급·비용 차단 운영 체계 구축",
+    "summary": "• **도입 계기**: 최상위 모델 이틀 사용 만에 기존 대비 수배 비용 청구 → 모니터링·할당량 제한 부재 확인 후 즉시 게이트웨이 구축 착수\n• **Amazon Bedrock 선택 이유**: 기존 AWS 인프라와 통합(IAM 역할 인증, CloudTrail 감사, 비용 청구 일원화)으로 외부 SaaS 대비 보안·관리 우위\n• **Bedrock 단독 한계**: 사용자·키 단위 실시간 비용 차단 불가, 서비스 할당량은 계정·리전 단위, 셀프서비스 키 발급 부재\n• **아키텍처**: 클라우드 포털",
     "date": "2026-08-20",
-    "loading": true
+    "loading": false
   },
   {
     "id": "1787208735002",
