@@ -1,79 +1,9 @@
 [
   {
     "action": "등록",
-    "title": "AI 도구 운영·관리 체계 수립 — 신청/검토/대시보드 3차 보고",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/0_AI거버넌스_3차 보고서.HTML",
-    "date": "2026-08-13T01:51:10.066Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "AI 에이전트 코딩 바겐세일의 종말과 개발자 생존 전략",
-    "url": "https://meetup.nhncloud.com/posts/420",
-    "date": "2026-08-12T04:17:32.011Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "AI 코딩 에이전트의 프롬프트 캐싱 작동 원리와 실무적 중요성",
-    "url": "https://earendil.com/posts/prompt-caching/",
-    "date": "2026-08-05T00:13:37.731Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "VOC 플랫폼 엔지니어링 업무 진행 현황 (챗봇·온콜·앱 개선)",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/13_VOC_260804.html",
-    "date": "2026-08-04T07:19:59.232Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "VOC 감소·장애 선제 대응을 위한 SRE 업무 자동화 추진 현황",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/VOC_list_260803.HTML",
-    "date": "2026-08-03T08:08:17.412Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "Amazon Bedrock AgentCore로 2주 만에 구현한 CS 환불 자동응답 에이전트",
-    "url": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-agentcore-customer-service-refund-automation/",
-    "date": "2026-07-30T04:35:14.889Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "사내 AI 거버넌스 1차 보고 — 현황 진단 및 실행계획",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260714_AI_거버넌스_현황_실행_통합보고.HTML",
-    "date": "2026-07-14T06:42:23.905Z",
-    "admin": true
-  },
-  {
-    "action": "삭제",
-    "title": "사내 AI 거버넌스 1차 보고 – 현황 진단 및 실행계획",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260714_AI_거버넌스_현황_실행_통합보고.HTML",
-    "date": "2026-07-14T06:42:11.445Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "사내 AI 거버넌스 1차 보고 – 현황 진단 및 실행계획",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260714_AI_거버넌스_현황_실행_통합보고.HTML",
-    "date": "2026-07-14T06:40:37.976Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "컨텐츠 안보임/안열림 VOC 1,184건 집중 분석 및 대응 방안",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/7_VOC_260526.HTML",
-    "date": "2026-05-27T00:59:01.710Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "학습컨텐츠 오류 VOC 1,301건 집중 분석 — 서버 이슈·완료 미처리·UX 개선이 핵심",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/6_VOC_1_260521.HTML",
-    "date": "2026-05-27T00:58:41.273Z",
+    "title": "씽크빅 운영 EC2 인스턴스별 CPU/메모리/디스크 관제 임계값 설정 현황",
+    "url": "http://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/EC2%20%EA%B4%80%EC%A0%9C%20%EC%84%A4%EC%A0%95%20%ED%98%84%ED%99%A9%20(%EB%B9%84%ED%91%9C%EC%A4%80%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8).HTML",
+    "date": "2026-08-20T00:59:57.126Z",
     "admin": true
   }
 ]
