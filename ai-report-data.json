@@ -1,5 +1,13 @@
 [
   {
+    "id": "1787640759043",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/AI_도구_운영관리_4차보고_V3.HTML",
+    "title": "AI 도구 거버넌스 4차 보고 — KIRO·Claude 목적별 배치 전략",
+    "summary": "• 5개 팀 의견 수렴 결과, 개발 업무는 KIRO 적합, 기획·디자인·리서치는 Claude/GPT 필요로 전면 일원화 불가\n• 백엔드팀 벤치마크 기준 Claude Code 74.9% vs KIRO CLI 64.2%로 코드 품질 차이 존재, KIRO 전환 시 효율 50% 저하 우려\n• 직군별 주도구 분리 확정: 개발(플랫폼AX·비즈니스AX)은 KIRO, 백엔드·프론트·기획은 Claude 팀플랜 기본 배정\n• 이미지 생성·한글 목업 등 KIRO 미지원 기능은 GPT 최소 라이선스 예외 허용(프론트 1개,",
+    "date": "2026-08-25",
+    "loading": false
+  },
+  {
     "id": "1787208743241",
     "url": "https://aws.amazon.com/ko/blogs/tech/fnf-llm-gateway-on-amazon-bedrock/",
     "title": "F&F, Amazon Bedrock + LiteLLM 게이트웨이로 사내 LLM 키 발급·비용 차단 운영 체계 구축",
