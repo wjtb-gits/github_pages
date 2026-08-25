@@ -1,6 +1,13 @@
 [
   {
     "action": "등록",
+    "title": "AI 도구 거버넌스 4차 보고 — KIRO·Claude 목적별 배치 전략",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/AI_도구_운영관리_4차보고_V3.HTML",
+    "date": "2026-08-25T06:52:50.634Z",
+    "admin": true
+  },
+  {
+    "action": "등록",
     "title": "F&F, Amazon Bedrock + LiteLLM 게이트웨이로 사내 LLM 키 발급·비용 차단 운영 체계 구축",
     "url": "https://aws.amazon.com/ko/blogs/tech/fnf-llm-gateway-on-amazon-bedrock/",
     "date": "2026-08-20T06:52:39.564Z",
