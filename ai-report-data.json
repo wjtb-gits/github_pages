@@ -1,5 +1,13 @@
 [
   {
+    "id": "1791359700489",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/16_VOC_260922.HTML",
+    "title": "VOC 감소 및 고객만족센터 효율화를 위한 플랫폼 개발 진행 현황",
+    "summary": "• 씽키 챗봇·링키 FAQ 챗봇·알림톡 등 VOC 자가해결 전환 기능 다수 개발 중 또는 완료\n• 마일리지 소멸 안내 알림톡 온라인멤버십 1,024건 발송, 씽키 250세션 유입 성과 달성\n• 온콜 서비스(AWS Connect+Lambda+DynamoDB) 오픈 완료, 운영 RDS·EC2 관제 일원화 진행\n• 주소 변경 8/13 선 오픈 완료, 휴대폰번호·현금영수증·결제 변경은 교문 정책 변경 후 11/1 예정\n• KMS 데이터 이관은 파이프라인 불가 판정으로 USB/CSV 전달 + 월",
+    "date": "2026-09-22",
+    "loading": false
+  },
+  {
     "id": "1791359599621",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/17_VOC_261007.HTML",
     "title": "VOC 업무 보고 - 챗봇·KMS·Pad Alert 등 플랫폼 개선 현황 (2026.10.07)",
