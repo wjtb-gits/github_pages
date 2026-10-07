@@ -1,5 +1,13 @@
 [
   {
+    "id": "1791359599621",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/17_VOC_261007.HTML",
+    "title": "VOC 업무 보고 - 챗봇·KMS·Pad Alert 등 플랫폼 개선 현황 (2026.10.07)",
+    "summary": "• **링키 FAQ 챗봇·씽키 챗봇** 등 자가해결 전환 시나리오 개발 진행 중, 마일리지 소멸 알림톡은 12월 1일 반영 예정\n• **고객만족센터 업무 효율화** 위해 KMS(CTI) 데이터 1차 검증 진행 중(10/12 완료 예정), POC 대상자 확인 중\n• **Pad Alert 사전 점검 알림** 누적 재시작 완료 7,884건(알림 노출 296,029건 대비 완료율 2.7%)\n• **주소변경 8/13 완료**, 휴대폰번호·현금영수증·결제변경은 교문 정책 확정 후 11/2 반영 예정",
+    "date": "2026-10-07",
+    "loading": false
+  },
+  {
     "id": "1789002920059",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/15_VOC_260908.html",
     "title": "VOC 업무 보고 - 챗봇·온콜·KMS 등 플랫폼 개선 진행 현황",
