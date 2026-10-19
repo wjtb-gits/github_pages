@@ -1,5 +1,13 @@
 [
   {
+    "id": "1792387170849",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/채널톡 회의 통합 브리핑_V3.0.HTML",
+    "title": "채널톡 AI 에이전트 'ALF' 도입 검토 — 비용·효과·기술 연동 핵심 정리",
+    "summary": "• 채널톡은 상담·CRM·AI를 통합한 B2B SaaS로, AI 에이전트 ALF는 규칙·지식·태스크 3가지 설계만으로 상담 자동화 구현\n• AI 도입 성공률은 5%(MIT 2025)이나, 자사 FAQ·상담이력 기반 업무 특화 설계 시 성공 가능성 높음\n• ALF 적용 시 전체 문의의 약 42~56% 자동 흡수 가능 (반복 문의 70% × 해결률 60~80%)\n• 기본 가정(월 1만 건, 상담원 10명) 기준 월 순절감액 약 1,129만원 / 연간 약 1.35억원 추정\n• 도입 핵심",
+    "date": "2026-10-19",
+    "loading": false
+  },
+  {
     "id": "1791359700489",
     "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/16_VOC_260922.HTML",
     "title": "VOC 감소 및 고객만족센터 효율화를 위한 플랫폼 개발 진행 현황",
