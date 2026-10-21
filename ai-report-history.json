@@ -1,86 +1,30 @@
 [
   {
     "action": "등록",
-    "title": "채널톡 AI 에이전트 'ALF' 도입 검토 — 비용·효과·기술 연동 핵심 정리",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/채널톡 회의 통합 브리핑_V3.0.HTML",
-    "date": "2026-10-19T05:19:39.908Z",
+    "title": "VOC 업무 보고 – 챗봇·플랫폼 개발 진행 현황 및 Pad Alert 성과",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/18_VOC_261021.HTML",
+    "date": "2026-10-21T01:38:15.387Z",
+    "admin": false
+  },
+  {
+    "action": "등록",
+    "title": "사내 AI 거버넌스 T2 — AI 툴 도입 판단·관리 프로세스 수립 기준 보고",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/20260728_AI_%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4_T2_%EB%8F%84%EC%9E%85%EA%B8%B0%EC%A4%80_%EB%B3%B4%EA%B3%A0_2%EC%B0%A8.html",
+    "date": "2026-07-30T03:01:15.436Z",
     "admin": true
   },
   {
     "action": "등록",
-    "title": "VOC 감소 및 고객만족센터 효율화를 위한 플랫폼 개발 진행 현황",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/16_VOC_260922.HTML",
-    "date": "2026-10-07T07:55:24.328Z",
+    "title": "LLM 비용 64% 절감 — 메트릭 가시성 확보 후 Prompt Caching으로 캐시 히트율 98% 달성",
+    "url": "https://techblog.musinsa.com/llm-%EB%B9%84%EC%9A%A9-64-%EC%A0%88%EA%B0%90-%EC%BA%90%EC%8B%9C-%ED%9E%88%ED%8A%B8%EC%9C%A8-98-%EB%8B%AC%EC%84%B1%EA%B8%B0-d568135bd40e",
+    "date": "2026-07-10T01:09:12.473Z",
     "admin": true
   },
   {
     "action": "등록",
-    "title": "VOC 업무 보고 - 챗봇·KMS·Pad Alert 등 플랫폼 개선 현황 (2026.10.07)",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/17_VOC_261007.HTML",
-    "date": "2026-10-07T07:53:32.495Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "VOC 업무 보고 - 챗봇·온콜·KMS 등 플랫폼 개선 진행 현황",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/15_VOC_260908.html",
-    "date": "2026-09-10T01:15:44.877Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "AI 도구 운영관리 체계 구축 — 신청·판정·모니터링 통합 프로세스 (V2)",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/프로세스_플로우_V2_상무님보고용.HTML",
-    "date": "2026-09-10T01:00:41.050Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "AI 도구 거버넌스 4차 보고 — KIRO·Claude 목적별 배치 전략",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AIG/AI_도구_운영관리_4차보고_V3.HTML",
-    "date": "2026-08-25T06:52:50.634Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "F&F, Amazon Bedrock + LiteLLM 게이트웨이로 사내 LLM 키 발급·비용 차단 운영 체계 구축",
-    "url": "https://aws.amazon.com/ko/blogs/tech/fnf-llm-gateway-on-amazon-bedrock/",
-    "date": "2026-08-20T06:52:39.564Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "Amazon Bedrock + LiteLLM 게이트웨이의 호출자 추적 및 모델 거버넌스 사각지대 해결",
-    "url": "https://aws.amazon.com/ko/blogs/tech/amazon-bedrock-litellm-integration/",
-    "date": "2026-08-20T06:52:26.967Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "한화솔루션, Amazon Bedrock 기반 사내 LLM Gateway로 Claude 전사 도입 (국내 첫 사례)",
-    "url": "https://aws.amazon.com/ko/blogs/tech/hanwha-claude-cowork-on-bedrock/",
-    "date": "2026-08-20T06:52:17.947Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "Claude Apps Gateway on AWS – 엔터프라이즈 Claude 사용 환경 중앙화 구성 가이드",
-    "url": "https://aws.amazon.com/ko/blogs/tech/claude-apps-gateway-with-aws/",
-    "date": "2026-08-20T06:52:05.782Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "씽크빅 운영 RDS 관제 알람 임계값 설정 현황",
-    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/RDS%20%EA%B4%80%EC%A0%9C%20%EC%84%A4%EC%A0%95%20%ED%98%84%ED%99%A9%20(%EB%B9%84%ED%91%9C%EC%A4%80%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8).HTML",
-    "date": "2026-08-20T01:00:18.293Z",
-    "admin": true
-  },
-  {
-    "action": "등록",
-    "title": "씽크빅 운영 EC2 인스턴스별 CPU/메모리/디스크 관제 임계값 설정 현황",
-    "url": "http://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/EC2%20%EA%B4%80%EC%A0%9C%20%EC%84%A4%EC%A0%95%20%ED%98%84%ED%99%A9%20(%EB%B9%84%ED%91%9C%EC%A4%80%20%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8).HTML",
-    "date": "2026-08-20T00:59:57.126Z",
+    "title": "2026년 상반기 IT VOC 3% 수준, 하반기 20% 감소 목표 추진",
+    "url": "https://down.wjthinkbig.com/IT_ENGINEERING/AI_VIBE/SRE/0_IT_VOC_260514.HTML",
+    "date": "2026-05-19T04:44:09.528Z",
     "admin": true
   }
 ]
